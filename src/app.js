@@ -6,3 +6,4 @@ console.log("Hello World!")
 // const read onlydir bir kere tanımladıktan sonra onu başka bir yerden değiştiremezsin
 // array ["kredi 1","kredi 2","kredi 3"] --- for
 
+// -
