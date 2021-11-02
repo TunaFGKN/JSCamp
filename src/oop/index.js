@@ -4,7 +4,6 @@ class Customer{
         this.customerNumber = customerNumber
     }
 }
-
 let customer = new Customer(1,"12345")
 //prototyping
 customer.name = "Murat"
